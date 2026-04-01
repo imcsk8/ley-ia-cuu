@@ -19,7 +19,7 @@ formato markdown: [iniciativa_ley_ia_cuu.md](iniciativa_ley_ia_cuu.md).
 ---
 **NOTA**
 
-Comentarios negativos, ofensivos o politizados serán eliminados sin discusión ni previo aviso
+Comentarios negativos, ofensivos o politizados serán eliminados sin discusión ni previo aviso;
 el propósito de este repositorio es crear un enlace entre los interesados y
 la mesa de trabajo de la iniciativa de ley. Existen otros espacios para las temáticas
 antes mencionadas.
