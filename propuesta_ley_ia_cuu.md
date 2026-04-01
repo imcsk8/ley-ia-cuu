@@ -1,5 +1,3 @@
----
-
 # Iniciativa de Ley de Fomento de la Inteligencia Artificial para el Estado de Chihuahua
 
 **H. [cite_start]CONGRESO DEL ESTADO DE CHIHUAHUA** [cite: 5]  
