@@ -65,6 +65,11 @@ garantizar que la IA se utilice con responsabilidad, equidad y
 transparencia, privilegiando siempre el bienestar de las personas y la
 reducción de las brechas digitales.
 
+> [!NOTA]
+> Se habla de políticas públicas para promover la innovación y no se toca
+> el tema en los artículos
+
+
 Este proyecto legislativo, establece una serie de principios rectores
 que deben guiar el diseño, uso y evaluación de los sistemas de
 Inteligencia Artificial. Principios como la centralidad de la persona
