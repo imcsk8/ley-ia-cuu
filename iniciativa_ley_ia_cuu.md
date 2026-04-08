@@ -65,7 +65,7 @@ garantizar que la IA se utilice con responsabilidad, equidad y
 transparencia, privilegiando siempre el bienestar de las personas y la
 reducción de las brechas digitales.
 
-> [!NOTA]
+> [!NOTE]
 > Se habla de políticas públicas para promover la innovación y no se toca
 > el tema en los artículos
 
